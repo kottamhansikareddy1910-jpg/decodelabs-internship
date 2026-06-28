@@ -1,4 +1,4 @@
-# decodelabs_tasks
+# decodelabs-internship
 # DecodeLabs AI Virtual Internship
 
 ## 👩‍🎓 Intern
